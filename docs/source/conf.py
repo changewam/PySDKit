@@ -28,7 +28,11 @@ sys.path.insert(0, str(Path('..', '..').resolve()))
 import pysdkit
 
 extensions = [
+    "myst_parser",
+
     "sphinx_copybutton",
+    "sphinx_togglebutton",
+    
     "sphinx.ext.duration",
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
@@ -60,7 +64,12 @@ apidoc_modules = [
 ]
 templates_path = ["_templates"]
 
-source_suffix = {".rst": "restructuredtext"}
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'markdown',
+    '.md': 'markdown',
+}
+
 #__________________________________________________________________________
 html_logo = "_static/logo.png"
 
@@ -138,7 +147,8 @@ remove_from_toctrees = []
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
     "index": [] , # Hide sidebar in home page
-    "API/pysdkit.*": []
+    "API/pysdkit.*": [] ,
+    "examples/index": []
 }
 html_show_sourcelink = False
 

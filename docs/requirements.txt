@@ -1,6 +1,8 @@
 sphinx>=8.0
 sphinx-copybutton
+sphinx_togglebutton
 sphinx_design>=0.5
 pydata-sphinx-theme>=0.16
 sphinx_gitstamp
 pysdkit
+myst-parser

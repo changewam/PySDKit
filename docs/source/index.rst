@@ -19,7 +19,7 @@ Quick links
    API/modules
    release_notes/index
    development/index
-   about/index
+   about/about
 
 
 
