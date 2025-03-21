@@ -6,7 +6,7 @@
 .. autosummary::
     :nosignatures:
 
-   pysdkit._ewt.ewt
+   ewt
 
 ewt.ewt
 ---------------------------

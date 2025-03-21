@@ -6,8 +6,8 @@ pysdkit.entropy
 .. autosummary::
    :nosignatures:
 
-   pysdkit.entropy._permutation_entropy
-   pysdkit.entropy._sample_entropy
+   _permutation_entropy
+   _sample_entropy
 
 entropy.permutation\_entropy
 -----------------------------------

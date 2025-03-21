@@ -6,8 +6,8 @@ pysdkit.vncmd
 .. autosummary::
    :nosignatures:
 
-   pysdkit._vncmd.vncmd
-   pysdkit._vncmd.incmd
+   vncmd
+   incmd
 
 vncmd.vncmd
 -----------------------------

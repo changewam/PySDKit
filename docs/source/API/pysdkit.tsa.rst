@@ -6,9 +6,9 @@
 .. autosummary::
     :nosignatures:
 
-   pysdkit.tsa._moving_decomp
-   pysdkit.tsa._dtw
-   pysdkit.tsa._knn
+   _moving_decomp
+   _dtw
+   _knn
 
 tsa.moving\_decomp
 ---------------------------

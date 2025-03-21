@@ -6,11 +6,11 @@ pysdkit.data
 .. autosummary::
    :nosignatures:
 
-   pysdkit.data._time_series
-   pysdkit.data._add_noise
-   pysdkit.data._cube
-   pysdkit.data._generator
-   pysdkit.data._image
+   _time_series
+   _add_noise
+   _cube
+   _generator
+   _image
 
 data.\_time\_series
 -----------------------

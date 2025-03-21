@@ -6,14 +6,14 @@ pysdkit.emd
 .. autosummary::
    :nosignatures:
 
-   pysdkit._emd._splines
-   pysdkit._emd._find_extrema
-   pysdkit._emd.emd
-   pysdkit._emd.eemd
-   pysdkit._emd.ceemdan   
-   pysdkit._emd.remd
-   pysdkit._emd.memd
-   pysdkit._emd.tvf_emd
+   _splines
+   _find_extrema
+   emd
+   eemd
+   ceemdan   
+   remd
+   memd
+   tvf_emd
 
 emd.\_splines
 -----------------------------

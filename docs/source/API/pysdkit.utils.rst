@@ -6,16 +6,16 @@
 .. autosummary::
    :nosignatures:
 
-   pysdkit.utils._fft
-   pysdkit.utils._mirror
-   pysdkit.utils._hilbert
-   pysdkit.utils._process
-   pysdkit.utils._differ
-   pysdkit.utils._smooth1d
-   pysdkit.utils._function
-   pysdkit.utils._instantaneous
-   pysdkit.utils._kernel_matrix
-   pysdkit.utils._diagnalization
+   _fft
+   _mirror
+   _hilbert
+   _process
+   _differ
+   _smooth1d
+   _function
+   _instantaneous
+   _kernel_matrix
+   _diagnalization
 
 utils.fft
 -----------------------

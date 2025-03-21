@@ -6,10 +6,10 @@
 .. autosummary::
    :nosignatures:
 
-   pysdkit.plot._plot_imfs
-   pysdkit.plot._fourier_spectra
-   pysdkit.plot._plot_images
-   pysdkit.plot._plot_signal
+   _plot_imfs
+   _fourier_spectra
+   _plot_images
+   _plot_signal
 
 plot.plot\_imfs
 -----------------------------------

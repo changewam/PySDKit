@@ -6,10 +6,10 @@
 .. autosummary::
     :nosignatures:
 
-   pysdkit._vmd.vmd_f
-   pysdkit._vmd.vmd_c
-   pysdkit._vmd.mvmd
-   pysdkit._vmd.acmd
+   vmd_f
+   vmd_c
+   mvmd
+   acmd
    
 vmd.vmd_f
 ---------------------------

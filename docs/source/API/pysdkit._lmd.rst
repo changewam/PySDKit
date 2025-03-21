@@ -6,8 +6,8 @@
 .. autosummary::
    :nosignatures:
 
-   pysdkit._lmd.lmd
-   pysdkit._lmd.rlmd
+   lmd
+   rlmd
 
 lmd.lmd
 -----------------------------

@@ -6,9 +6,9 @@
 .. autosummary::
    :nosignatures:
 
-   pysdkit._faemd.faemd
-   pysdkit._faemd.faemd2d
-   pysdkit._faemd.faemd3d
+   faemd
+   faemd2d
+   faemd3d
 
 faemd.faemd
 -----------------------------

@@ -6,7 +6,7 @@
 .. autosummary::
     :nosignatures:
 
-   pysdkit._ssa.ssa
+   ssa
 
 ssa.ssa
 ---------------------------

@@ -6,7 +6,7 @@
 .. autosummary::
    :nosignatures:
 
-   pysdkit._hvd.hvd
+   hvd
 
 hvd.hvd
 -----------------------------
